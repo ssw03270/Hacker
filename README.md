@@ -9,7 +9,7 @@
  <img src= https://github.com/ssw03270/Hacker/blob/main/VRGAZE.png>
  
 <h3>Related Competition </h3>
-<a href = "https://www.youtube.com/watch?v=79LV9N-yP1c">2021 경희대학교 실감미디어 혁신공유대학 게임 경진 대회</a> (2021 Realistic Media Game Competition)
+<a href = "https://www.youtube.com/watch?v=79LV9N-yP1c">2021 경희대학교 실감미디어 혁신공유대학 게임 경진 대회 - 최우수상</a> (2021 Realistic Media Game Competition - Top Prize)
 <br>
 <p>
 <img src=https://github.com/ssw03270/Hacker/blob/main/image.png>
